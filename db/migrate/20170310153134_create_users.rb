@@ -8,5 +8,5 @@ class CreateUsers < ActiveRecord::Migration
 		t.string :password
 		t.timestamps
 		end
-	end 
+	end
 end
